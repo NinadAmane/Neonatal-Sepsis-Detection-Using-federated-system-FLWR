@@ -274,6 +274,7 @@ Contributions welcome. Suggested improvements:
 When opening PRs:
 1. Explain the change & rationale.  
 2. Include runnable examples or tests.
+3. Keep changes small and focused.
 
 ---
 
@@ -283,9 +284,9 @@ When opening PRs:
 - Collaborators: [`NinadAmane`](https://github.com/NinadAmane), [`Rakshak05`](https://github.com/Rakshak05)  
 
 ---
-4. Keep changes small and focused.
 
----
+
+
 
 
 
